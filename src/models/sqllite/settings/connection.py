@@ -1,3 +1,4 @@
+# criamos uma classe para conexao com o banco
 from sqlalchemy import create_engine
 
 
