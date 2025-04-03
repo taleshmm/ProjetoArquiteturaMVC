@@ -1,2 +1,6 @@
-*venv
-*.vscode
+venv
+.vscode
+storage.db
+storage (backup).db
+*.pytest_cache
+**/__pycache__
