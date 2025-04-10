@@ -1,5 +1,5 @@
 import pytest
-from src.models.sqllite.settings.connection import db_connection_handler
+from src.models.sqlite.settings.connection import db_connection_handler
 from .pets_repository import PetsRepository
 from .people_repository import PeopleRepository
 

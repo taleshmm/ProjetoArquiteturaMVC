@@ -1,6 +1,6 @@
 from sqlalchemy import BIGINT, Column, ForeignKey, String
 
-from src.models.sqllite.settings.base import Base
+from src.models.sqlite.settings.base import Base
 
 
 class PeopleTable(Base):

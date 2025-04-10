@@ -1,6 +1,6 @@
 from sqlalchemy.orm.exc import NoResultFound
-from src.models.sqllite.entities.pets import PetsTable
-from src.models.sqllite.settings.connection import db_connection_handler
+from src.models.sqlite.entities.pets import PetsTable
+from src.models.sqlite.settings.connection import db_connection_handler
 
 db_connection_handler.connect_to_db()
 
