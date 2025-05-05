@@ -17,21 +17,6 @@ O foco principal deste projeto é aplicar a arquitetura MVC de forma clara e did
 
 - Python 3.12.6
 
-## 📁 Estrutura de Pastas
-
-ProjetoArquiteturaMVC/
-│
-├── controller/
-│   └── usuario\_controller.py
-│
-├── model/
-│   └── usuario\_model.py
-│
-├── view/
-│   └── usuario\_view\.py
-│
-└── main.py
-
 
 ## 🚀 Como Executar o Projeto
 
