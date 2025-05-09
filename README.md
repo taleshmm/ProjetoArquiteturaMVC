@@ -21,16 +21,24 @@ O foco principal deste projeto é aplicar a arquitetura MVC de forma clara e did
 ## 🚀 Como Executar o Projeto
 
 1. Clone o repositório:
-
+```
 git clone https://github.com/taleshmm/ProjetoArquiteturaMVC.git
+```
 
 2. Acesse a pasta do projeto:
-
+```
 cd ProjetoArquiteturaMVC
+```
 
-3. Execute o script principal:
+3. Instalar as dependências
+```
+pip install -r requirements.txt
+```
 
+4. Execute o script principal:
+```
 python run.py
+```
 
 ## 📌 Funcionalidades
 
